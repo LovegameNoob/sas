@@ -6,6 +6,7 @@
  * Time: 17:43
  */
 //print_r(range(0,150,20));
+//测试git
 require "config.php";
 require_once ('lib/jpgraph/jpgraph.php');
 require_once ('lib/jpgraph/jpgraph_bar.php');
